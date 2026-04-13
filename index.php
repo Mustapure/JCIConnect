@@ -1,9 +1,6 @@
 <?php 
 $page = 'home'; 
 require_once __DIR__ . '/config/database.php';
-if ($conn) {
-    echo '<div style="background: #d4edda; color: #155724; padding: 10px; text-align: center; margin: 10px 0; border-radius: 5px;"><strong>✅ Database Connected Successfully!</strong> (PDO Ready)</div>';
-}
 include 'include/header.php'; 
 ?>
 
