@@ -5,6 +5,7 @@
 [![Apache](https://img.shields.io/badge/Apache-XAMPP-green?style=flat&logo=apache&logoColor=white)](https://www.apachefriends.org/)
 [![License](https://img.shields.io/badge/License-JCI-red?style=flat)](README.md)
 
+to Clone this Project : use CMD git clone https://github.com/Mustapure/JCIConnect.git
 A comprehensive website for JCI Zone 12 - a global network of young active citizens building a better world.
 
 ## 🌐 Project Overview
